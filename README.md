@@ -64,7 +64,7 @@ Full license text is available in [`LICENSE.md`](LICENSE.md).
 
 **Adrian Micheal Vickery**  
 Email: _amvickery07@gmail.com_ 
-Website (optional) [Adrian Plays 3](https://adrianplays3.neocities.org/)
+Website: [Adrian Plays 3](https://adrianplays3.neocities.org/)
 
 If you use or fork the project, a star ⭐ is appreciated!
 
