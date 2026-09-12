@@ -1,4 +1,4 @@
-# youtubeyoutubeusic
+# youtubeyoutubemusic
 
 A lightweight .NET application packaged into a single executable installer, featuring a YouTube-style interface and non-commercial Creative Commons licensing.
 
