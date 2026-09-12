@@ -23,7 +23,7 @@ A lightweight .NET application packaged into a single executable installer, feat
 **(Windows Only)**
 3. Run the installer.  
 4. (Optional) Create a desktop shortcut during setup.  
-5. Launch **Youtube Youtube Music App** from the Start Menu or desktop.
+5. Launch **YT-YT-Music** from the Start Menu or desktop.
 
 ---
 
