@@ -1,4 +1,4 @@
-# youtubeyoutubemusic
+# YT-YT-Music
 
 A lightweight .NET application packaged into a single executable installer, featuring a YouTube-style interface and non-commercial Creative Commons licensing.
 
@@ -6,8 +6,10 @@ A lightweight .NET application packaged into a single executable installer, feat
 
 ## 📦 Features
 
-- Single-file `.exe` installer  
-- Optional auto-update support  
+- Single-file `.exe` installer
+- Linux Compatability
+- Arm64 Compatability
+- Auto Update
 - Fully self-contained .NET runtime (if published as such)  
 - Custom app icon and installer icon  
 - Clean, simple UI inspired by YouTube design elements  
@@ -16,7 +18,8 @@ A lightweight .NET application packaged into a single executable installer, feat
 
 ## 🛠 Installation
 
-1. Download `ytytmusic-x64.exe` from the Releases page.  
+1. Download respected release from the Releases page. 
+(Windows Only)
 3. Run the installer.  
 4. (Optional) Create a desktop shortcut during setup.  
 5. Launch **Youtube Youtube Music App** from the Start Menu or desktop.
@@ -26,7 +29,7 @@ A lightweight .NET application packaged into a single executable installer, feat
 ## 💻 System Requirements
 
 - Windows 10 or later  
-- .NET 6 or .NET 8 runtime
+- .NET 10 runtime
 - ~200 MB free storage  
 
 ---
