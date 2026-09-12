@@ -1,5 +1,5 @@
 
-YOUTUBE YOUTUBE MUSIC APP
+YT-YT-MUSIC
 LICENSE AND LEGAL NOTICES
 
 Copyright © 2026 Adrian Micheal Vickery
@@ -10,7 +10,7 @@ All rights reserved except as expressly granted under the license below.
 1. SOFTWARE LICENSE
 ================================================================
 
-The YouTube Youtube Music App, including its source code, original
+The YT-YT-MUSIC application, including its source code, original
 application code, documentation, artwork, and other original
 copyrightable materials distributed by the author, is licensed under:
 
@@ -56,7 +56,7 @@ Author:
 Adrian Micheal Vickery
 
 Project:
-YouTube Youtube Music App
+YT-YT-MUSIC
 
 License:
 Creative Commons Attribution-NonCommercial 4.0 International
@@ -388,7 +388,7 @@ Email:
 amvickery07@gmail.com
 
 Website:
-https://adrianplays3.neocities.org/](https://github.com/bbbbbb12331314141414141/youtubemusiclauncher)
+https://github.com/bbbbbb12331314141414141/youtubemusiclauncher
 
 
 ================================================================
