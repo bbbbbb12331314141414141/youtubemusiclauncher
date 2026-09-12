@@ -2,7 +2,7 @@
 YT-YT-MUSIC
 LICENSE AND LEGAL NOTICES
 
-Copyright © 2026 Adrian Micheal Vickery
+Copyright © 2026 Adrian Michael Vickery
 All rights reserved except as expressly granted under the license below.
 
 
@@ -382,7 +382,7 @@ https://creativecommons.org/licenses/by-nc/4.0/legalcode
 ================================================================
 
 Author:
-Adrian Micheal Vickery
+Adrian Michael Vickery
 
 Email:
 amvickery07@gmail.com
@@ -396,7 +396,7 @@ END OF LICENSE AND LEGAL NOTICES
 ================================================================
 
 YouTube Youtube Music App
-Copyright © 2026 Adrian Micheal Vickery
+Copyright © 2026 Adrian Michael Vickery
 
 Licensed under CC BY-NC 4.0.
 https://creativecommons.org/licenses/by-nc/4.0/
