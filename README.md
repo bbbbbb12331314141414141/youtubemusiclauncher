@@ -68,7 +68,7 @@ Full license text is available in [`LICENSE.md`](LICENSE.md).
 
 **Adrian Micheal Vickery**  
 Email: _amvickery07@gmail.com_ 
-Website: [Adrian Plays 3](https://adrianplays3.neocities.org/)
+Website: https://github.com/bbbbbb12331314141414141/youtubemusiclauncher/
 
 If you use or fork the project, a star ⭐ is appreciated!
 
