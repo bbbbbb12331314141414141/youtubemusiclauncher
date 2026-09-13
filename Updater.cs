@@ -16,7 +16,7 @@ public static class Updater
     {
         try
         {
-            if (AppInfo.UpdateManifestUrl.Contains("YOUR_GITHUB_USERNAME", StringComparison.Ordinal))
+            if (AppInfo.UpdateManifestUrl.Contains("bbbbbb12331314141414141", StringComparison.Ordinal))
                 return "Update service is not configured yet.";
 
             Http.DefaultRequestHeaders.UserAgent.ParseAdd("YouTubeLauncher-Updater/2.0");
