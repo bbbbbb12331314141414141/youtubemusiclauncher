@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "assets": [
+    {
+      "runtimeIdentifier": "win-x64",
+      "url": "https://github.com/bbbbbb12331314141414141/youtubemusiclauncher/releases/download/v2.0.0/YouTubeLauncher-win-x64.zip",
+      "sha256": ""
+    },
+    {
+      "runtimeIdentifier": "win-arm64",
+      "url": "https://github.com/bbbbbb12331314141414141/youtubemusiclauncher/releases/download/v2.0.0/YouTubeLauncher-win-arm64.zip",
+      "sha256": ""
+    },
+    {
+      "runtimeIdentifier": "linux-x64",
+      "url": "https://github.com/bbbbbb12331314141414141/youtubemusiclauncher/releases/download/v2.0.0/YouTubeLauncher-linux-x64.zip",
+      "sha256": ""
+    },
+    {
+      "runtimeIdentifier": "linux-arm64",
+      "url": "https://github.com/bbbbbb12331314141414141/youtubemusiclauncher/releases/download/v2.0.0/YouTubeLauncher-linux-arm64.zip",
+      "sha256": ""
+    }
+  ]
+}
